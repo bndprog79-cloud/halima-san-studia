@@ -11,7 +11,7 @@
  */
 'use strict';
 
-const CACHE_VERSION = 'd9cf024c9e';
+const CACHE_VERSION = '0f9efe82e5';
 const CACHE_PREFIX = 'halima-san-studia-';
 const CACHE = CACHE_PREFIX + CACHE_VERSION;
 const PAGE = './';
